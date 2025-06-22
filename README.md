@@ -1,17 +1,19 @@
-## Hi there 👋
-## Me especializo en análisis de datos y programación con herramientas como Python y SQL. Mi interés principal está en transformar datos en soluciones prácticas y estrategias útiles para los negocios.
-## En este espacio comparto los proyectos en los que he trabajado y continúo aprendiendo nuevas habilidades. Estoy siempre abierto a colaborar y explorar nuevas ideas en este apasionante campo.
-<!--
-**StrangeVM/StrangeVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy un Data Scientist Junior
 
-Here are some ideas to get you started:
+Me apasiona resolver problemas con datos y transformar información en soluciones prácticas para los negocios.  
+Especializado en herramientas como **Python**, **SQL** y metodologías de análisis de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Siempre estoy aprendiendo algo nuevo y comparto aquí mis proyectos.
+
+### 🛠️ Tecnologías y Habilidades  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+
+---
