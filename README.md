@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## Me especializo en análisis de datos y programación con herramientas como Python y SQL. Mi interés principal está en transformar datos en soluciones prácticas y estrategias útiles para los negocios.
+## En este espacio comparto los proyectos en los que he trabajado y continúo aprendiendo nuevas habilidades. Estoy siempre abierto a colaborar y explorar nuevas ideas en este apasionante campo.
 <!--
 **StrangeVM/StrangeVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
