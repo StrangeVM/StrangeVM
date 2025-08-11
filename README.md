@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy un Data Scientist Junior
+# 👋 ¡Hola! Soy un Data Scientist
 
 Me apasiona resolver problemas con datos y transformar información en soluciones prácticas para los negocios.  
 Especializado en herramientas como **Python**, **SQL** y metodologías de análisis de datos.
